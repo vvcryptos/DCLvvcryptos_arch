@@ -14,13 +14,11 @@
   },
   "devDependencies": {
     "@dcl/eslint-config": "^1.0.1",
-    "decentraland-ecs": "latest"
+    "decentraland-ecs": "^6.11.10"
   },
   "engines": {
     "node": ">=14.0.0",
-    "npm": ">=6.0.0",
-    "yarn": "please use npm"
-  },
+    "npm": ">=6.0.0",},
   "dependencies": {
     "decentraland": "^3.12.3"
   }
